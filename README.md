@@ -1,9 +1,9 @@
-Contact Management System
+Contact Management System:
 
 
 This is a simple Python program that allows users to store and manage contact information. The program provides options to add new contacts, view the contact list, edit existing contacts, and delete contacts. The contacts are stored in a JSON file for persistent storage.
 
-Features
+Features:
 
 
 Add New Contact: Enter the name, phone number, and email address to add a new contact.
@@ -12,6 +12,6 @@ Edit Contact: Update the phone number or email address of an existing contact.
 Delete Contact: Remove a contact by name.
 Persistent Storage: Contacts are stored in a JSON file (contacts.json) to ensure data is not lost when the program is closed.
 
-Requirements
+Requirements:
 
 Python 3.x

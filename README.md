@@ -11,7 +11,7 @@ View Contacts: Display all saved contacts with their details.
 Edit Contact: Update the phone number or email address of an existing contact.
 Delete Contact: Remove a contact by name.
 Persistent Storage: Contacts are stored in a JSON file (contacts.json) to ensure data is not lost when the program is closed.
-Requirements
 
+Requirements
 
 Python 3.x
